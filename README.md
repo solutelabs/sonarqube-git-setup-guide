@@ -15,3 +15,4 @@
 ![Install Application](images/Add_secret.png)
 5. For configuring workflows add the analyzeBranch.yml and analyzePR.yml files to .github/workflows/ directory
 6. After configuration of the workflows you can review analysis under PR section
+![Install Application](images/PR.png)
